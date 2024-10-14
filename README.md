@@ -5,12 +5,7 @@ Este é um projeto pessoal, que foi desenvolvido com o intuito de exercitar a cr
 
 Funcionalidades:
 Cadastro de clientes individuais e empresariais.
-Cadastro de diferentes tipos de robôs: Doméstico, Industrial e Agrícola.
+Cadastro de diferentes tipos de robôs.
 Realização de locações de robôs por clientes.
 Listagem de clientes e robôs cadastrados.
 Geração de relatórios detalhados.
-
-Tecnologias Utilizadas:
-Java
-JavaFX (para a interface gráfica)
-JAXB (para manipulação de XML)
